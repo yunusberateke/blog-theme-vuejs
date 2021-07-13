@@ -1,0 +1,11 @@
+export const PortfolioCategoryModule = "PortfolioCategoryModule";
+export const PortfolioModule = "PortfolioModule";
+export const SendMailModule = "SendMailModule";
+export const PostCategoryModule = "PostCategoryModule";
+export const PostModule = "PostModule";
+export const TagPostModule = "TagPostModule";
+export const TagModule = "TagModule";
+export const DefaultValuesModule = "DefaultValuesModule";
+export const CommentModule = "CommentModule";
+export const AccountModule = "AccountModule";
+export const CategoryModule = "CategoryModule";
